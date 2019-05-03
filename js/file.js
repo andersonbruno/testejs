@@ -1,1 +1,1 @@
-console.log($("#hplogo"));
+console.log("teste");
